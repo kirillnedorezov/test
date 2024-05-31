@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Корзина - Интернет-магазин Техники</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Корзина</h1>
+    <nav>
+        <a href="index.html">Главная</a>
+    </nav>
+</header>
+
+<main>
+    <section id="cart">
+        <h2>Корзина</h2>
+        <ul id="cart-items"></ul>
+        <p id="total-price">Итого: 0 руб.</p>
+        <form id="order-form" style="display: none;">
+            <label for="name">Имя:</label>
+            <input type="text" id="name" required>
+            <label for="phone">Телефон:</label>
+            <input type="text" id="phone" required>
+            <label for="address">Адрес:</label>
+            <input type="text" id="address" required>
+            <button type="button" id="checkout-btn">Оформить заказ</button>
+        </form>
+    </section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

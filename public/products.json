@@ -1,0 +1,191 @@
+{
+  "laptops": [
+    {
+      "id": 1,
+      "name": "MacBook Air",
+      "price": 99900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-select-202110_GEO_RU?wid=892&hei=820&&qlt=80&.v=1632788575000"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 16",
+      "price": 239900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-pro-16-hero-space-select-202110_GEO_RU?wid=892&hei=820&&qlt=80&.v=1632853292000"
+    },
+    {
+      "id": 3,
+      "name": "Mac Mini",
+      "price": 69900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-202011_GEO_RU?wid=1256&hei=1058&fmt=jpeg&qlt=95&.v=1628591554000"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro 14",
+      "price": 179900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-select-202110_GEO_RU?wid=892&hei=820&&qlt=80&.v=1632788575000"
+    },
+    {
+      "id": 5,
+      "name": "iMac 24",
+      "price": 119900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-hero-config-select-202104_GEO_RU?wid=1256&hei=1058&fmt=jpeg&qlt=95&.v=1618004841000"
+    },
+    {
+      "id": 6,
+      "name": "Mac Pro",
+      "price": 499900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-hero-selection?wid=1256&hei=1058&fmt=jpeg&qlt=95&.v=1631117347000"
+    },
+    {
+      "id": 7,
+      "name": "MacBook Air 13",
+      "price": 89900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-select-202110_GEO_RU?wid=892&hei=820&&qlt=80&.v=1632788575000"
+    },
+    {
+      "id": 8,
+      "name": "MacBook Pro 13",
+      "price": 129900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-pro-14-hero-select-202110_GEO_RU?wid=892&hei=820&&qlt=80&.v=1632788575000"
+    },
+    {
+      "id": 9,
+      "name": "iMac Pro",
+      "price": 439900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-hero-config-select-202104_GEO_RU?wid=1256&hei=1058&fmt=jpeg&qlt=95&.v=1618004841000"
+    },
+    {
+      "id": 10,
+      "name": "MacBook Air M1",
+      "price": 99900,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-select-202110_GEO_RU?wid=892&hei=820&&qlt=80&.v=1632788575000"
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "price": 79990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631747707000"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13 Pro",
+      "price": 99990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-graphite-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631747708000"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12 mini",
+      "price": 59990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1601835833000"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12",
+      "price": 69990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617813124000"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 11",
+      "price": 55990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-green-select-2019?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1566956148088"
+    },
+    {
+      "id": 6,
+      "name": "iPhone SE",
+      "price": 42990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-black-select-2020?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1586574260310"
+    },
+    {
+      "id": 7,
+      "name": "iPhone XS",
+      "price": 68990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-gold-select-2018?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1550795419251"
+    },
+    {
+      "id": 8,
+      "name": "iPhone XR",
+      "price": 49990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-red-select-201809?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1550795421757"
+    },
+    {
+      "id": 9,
+      "name": "iPhone 8",
+      "price": 42990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone8-gold-select-2017?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1550795421762"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 7",
+      "price": 29990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone7-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1550795421939"
+    }
+  ],
+  "tablets": [
+    {
+      "id": 1,
+      "name": "iPad Pro",
+      "price": 99990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-11-select-202104_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617141328000"
+    },
+    {
+      "id": 2,
+      "name": "iPad Air",
+      "price": 69990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-blue-202203_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1645064738163"
+    },
+    {
+      "id": 3,
+      "name": "iPad",
+      "price": 44990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-10-9-select-wifi-silver-202209_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1663701833105"
+    },
+    {
+      "id": 4,
+      "name": "iPad mini",
+      "price": 59990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202109_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631751014000"
+    },
+    {
+      "id": 5,
+      "name": "iPad Pro 12.9",
+      "price": 119990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-9-select-202104_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617141329000"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "name": "AirPods Pro",
+      "price": 24990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-select-202110_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1632967384000"
+    },
+    {
+      "id": 2,
+      "name": "Magic Mouse",
+      "price": 8990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mj2r2zm?wid=532&hei=582&fmt=jpeg&qlt=95&.v=1447868588320"
+    },
+    {
+      "id": 3,
+      "name": "Magic Keyboard",
+      "price": 19990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/magic-keyboard-ipad-pro-11-2021_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1618270313000"
+    },
+    {
+      "id": 4,
+      "name": "Apple Pencil",
+      "price": 10990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-pencil-2nd-gen-202110_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1632861346000"
+    },
+    {
+      "id": 5,
+      "name": "AirTag",
+      "price": 2990,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-1pack-select-202104_GEO_RU?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617761672000"
+    }
+  ]
+}
+
